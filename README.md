@@ -1,7 +1,7 @@
 # LogStash Config File
 
 <h2> 1. Please refer to the "Configs" Folder for the corresponding LogStash Config File: </h2>
-<b> https://github.com/gitahn11/Logstash/tree/main/Configs </b>
+<b> https://github.com/gitahn11/Logstash/blob/main/Configs/Syslog_Logstash.conf </b>
 
 <h2> 2. Below is the breakdown of LogStash Config File to ingest, standardize, and output a standard Syslog event:</h1>
 
